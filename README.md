@@ -53,7 +53,7 @@ This GitHub repository serves as a portfolio of my technical expertise and inclu
 
 I am always open to collaborations, networking, and professional opportunities.  
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/sandun-perera-11a61b211/))  
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/sandun-perera-11a61b211/]) 
 - 📧 Email: sanduntharaka9651@gmail..com  
 - 🌟 [Portfolio Website](https://www.yourportfolio.com)
 
