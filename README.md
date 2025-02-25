@@ -51,11 +51,14 @@ This GitHub repository serves as a portfolio of my technical expertise and inclu
 
   ## 🤝 Let's Connect
 
+## 🤝 Let's Connect
+
 I am always open to collaborations, networking, and professional opportunities.  
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/sandun-perera-11a61b211/]) 
-- 📧 Email: sanduntharaka9651@gmail..com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sandun-perera-11a61b211/)  
+- 📧 Email: sanduntharaka9651@gmail.com  
 - 🌟 [Portfolio Website](https://www.yourportfolio.com)
+
 
 
 <!---
