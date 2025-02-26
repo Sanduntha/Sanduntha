@@ -44,7 +44,7 @@ This GitHub repository serves as a portfolio of my technical expertise and inclu
 - MySQL, PostgreSQL, MongoDB
 
 **Cloud & DevOps**:  
-- AWS, Azure, Docker, Kubernetes, CI/CD Pipelines
+- AWS
 
 **Tools**:  
 - Git, GitHub, IntelliJ IDEA, Visual Studio Code,
