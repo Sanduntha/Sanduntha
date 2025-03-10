@@ -35,7 +35,7 @@ This GitHub repository serves as a portfolio of my technical expertise and inclu
 ## 🚀 Technical Skills
 
 **Programming Languages**:  
-- Java, JavaFX, Python, JavaScript, TypeScript, HTML, CSS
+- Java, JavaFX, Python, JavaScript, TypeScript, HTML, CSS, C#
 
 **Frameworks & Libraries**:  
 - React, Node.js, Express, Spring, Spring Boot, Bootstrap, Hibernate
@@ -47,7 +47,7 @@ This GitHub repository serves as a portfolio of my technical expertise and inclu
 - AWS
 
 **Tools**:  
-- Git, GitHub, IntelliJ IDEA, Visual Studio Code,
+- Git, GitHub, IntelliJ IDEA, Visual Studio Code, Visual Studio
 
   ## 🤝 Let's Connect
 
