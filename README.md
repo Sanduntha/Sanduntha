@@ -38,7 +38,7 @@ This GitHub repository serves as a portfolio of my technical expertise and inclu
 - Java, JavaFX, Python, JavaScript, TypeScript, HTML, CSS, C#
 
 **Frameworks & Libraries**:  
-- React, Node.js, Express, Spring, Spring Boot, Bootstrap, Hibernate
+- React, Node.js, Express, Spring, Spring Boot, Bootstrap, Hibernate, React Native
 
 **Database Management**:  
 - MySQL, PostgreSQL, MongoDB
