@@ -41,7 +41,7 @@ This GitHub repository serves as a portfolio of my technical expertise and inclu
 - React, Node.js, Express, Spring, Spring Boot, Bootstrap, Hibernate, React Native
 
 **Database Management**:  
-- MySQL, PostgreSQL, MongoDB
+- MySQL, MongoDB
 
 **Cloud & DevOps**:  
 - AWS
