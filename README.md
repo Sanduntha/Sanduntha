@@ -1,67 +1,53 @@
-# 💼 Sandun Tharaka Perera | Software Engineer
+# 🌟 Sandun Tharaka Perera | Software Engineer
 
-Welcome to my GitHub repository. I am **Sandun Tharaka Perera**, a dedicated and results-driven Software Engineer specializing in full-stack web development, innovative software solutions, and scalable systems. My work focuses on delivering high-quality, efficient, and user-centric products that solve real-world problems.
-
----
-
-## 🛠 About Me
-
-- 🎓 Pursuing a **Bachelor of Software Engineering**  
-- 💡 Passionate about **problem-solving**, **software design patterns**, and **emerging technologies**  
-- 🚀 Dedicated to **building scalable, maintainable, and secure applications**  
-- 🌐 Experienced in **Java**, **Python**, **JavaScript**, **React**, **Node.js**, **SQL**, and cloud technologies.  
-
-I believe in continuous learning and thrive in collaborative environments that foster innovation and creativity.
+Hello! I'm **Sandun Tharaka Perera**, a **Software Engineer** passionate about building efficient, scalable, and impactful software solutions. With a strong foundation in **full-stack development**, I thrive on solving complex problems and crafting intuitive user experiences.
 
 ---
 
-## 📂 Repository Overview
+## 🚀 About Me
 
-This GitHub repository serves as a portfolio of my technical expertise and includes:
-
-1. **Feature-Rich Projects**:
-   - [🌐 Portfolio Website](https://github.com/yourusername/portfolio-website): A personal portfolio showcasing my skills and experience.
-   - [📊 Data Analytics Dashboard](https://github.com/yourusername/data-analytics-dashboard): A real-time dashboard for visualizing large datasets.
-   - [🛒 E-Commerce Platform](https://github.com/yourusername/ecommerce-platform): A full-stack web application with integrated payment systems and admin functionalities.
-
-2. **Open Source Contributions**:
-   - Active contributions to community-driven projects and repositories.
-
-3. **Code Libraries and Utilities**:
-   - Reusable components, algorithms, and tools developed to streamline software development.
+🎓 **Software Engineering Undergraduate**  
+💡 Passionate about **clean code, system architecture, and emerging technologies**  
+🛠 Skilled in **Java, JavaScript, Python, React, Node.js, and cloud computing**  
+🌍 Enthusiastic about **open-source contributions and community-driven projects**  
+📚 Constantly learning and staying updated with the latest tech trends  
 
 ---
 
-## 🚀 Technical Skills
+## 🔥 Projects & Contributions
 
-**Programming Languages**:  
-- Java, JavaFX, JavaScript, TypeScript, HTML, CSS, C#
+🔹 **Personal Portfolio** – A sleek, modern portfolio showcasing my expertise  
+📊 **Data Analytics Dashboard** – Interactive dashboard for real-time data visualization  
+🛍 **E-Commerce Platform** – Full-stack web application with advanced functionalities  
+🔧 **Utility Libraries & Open Source** – Contributing to projects that enhance developer productivity  
 
-**Frameworks & Libraries**:  
-- React, Node.js, Express, Spring, Spring Boot, Bootstrap, Hibernate, React Native, Angular
+---
 
-**Database Management**:  
-- MySQL, MongoDB
+## 🛠 Technical Expertise
 
-**Cloud & DevOps**:  
-- AWS
+### **Languages & Technologies**  
+✔ Java, JavaScript, TypeScript, Python, C#, HTML, CSS  
 
-**Tools**:  
-- Git, GitHub, IntelliJ IDEA, Visual Studio Code, Visual Studio
+### **Frameworks & Libraries**  
+✔ React, Node.js, Express, Spring Boot, Hibernate, React Native, Angular  
 
-  ## 🤝 Let's Connect
+### **Database & Cloud**  
+✔ MySQL, MongoDB, AWS, Firebase  
 
-## 🤝 Let's Connect
+### **DevOps & Tools**  
+✔ Git, GitHub, Docker, IntelliJ IDEA, VS Code, Postman  
 
-I am always open to collaborations, networking, and professional opportunities.  
+---
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sandun-perera-11a61b211/)  
-- 📧 Email: sanduntharaka9651@gmail.com  
-- 🌟 [Portfolio Website](https://www.yourportfolio.com)
+## 🤝 Connect with Me
 
+I’m always excited to collaborate, contribute, and connect with like-minded professionals. Let's build something amazing together! 🚀
 
+🔗 **[LinkedIn](#)**  
+📧 **Email:** sanduntharaka9651@gmail.com  
+🌐 **Portfolio:** [Coming Soon]  
 
-<!---
-Sanduntha/Sanduntha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+⭐ **Check out my repositories and let's code something awesome!**
+
