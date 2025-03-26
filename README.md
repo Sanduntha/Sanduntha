@@ -32,8 +32,10 @@ Hello! I'm **Sandun Tharaka Perera**, a **Software Engineer** passionate about b
 ✔ React, Node.js, Express, Spring Boot, Hibernate, React Native, Angular  
 
 ### **Database & Cloud**  
-✔ MySQL, MongoDB, AWS 
+✔ MySQL, MongoDB 
 
+### **Cloud**  
+✔ AWS
 ### **DevOps & Tools**  
 ✔ Git, GitHub, Docker, IntelliJ IDEA, VS Code, Postman  
 
