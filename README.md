@@ -1,6 +1,6 @@
 # 🌟 Sandun Tharaka Perera | Software Engineer
 
-Hello! I'm **Sandun Tharaka Perera**, a **Software Engineer** passionate about building efficient, scalable, and impactful software solutions. With a strong foundation in **full-stack development**, I thrive on solving complex problems and crafting intuitive user experiences.
+Hello! I'm **Sandun Tharaka Perera**, a **Software Engineer** passionate about building efficient, scalable, and impactful software solutions. With a strong foundation in **Full-Stack Development**, I thrive on solving complex problems and crafting intuitive user experiences.
 
 ---
 
