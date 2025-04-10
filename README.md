@@ -2,7 +2,7 @@ Here's a polished and well-organized version of your GitHub profile with all you
 
 ---
 
-# 🌟 **Sandun Tharaka Perera** | **Full-Stack Software Engineer**
+# 🌟 **Sandun Tharaka Perera** | **Software Engineer**
 
 **Hello World!** 👋 I'm a passionate **Full-Stack Engineer** specializing in building robust, scalable applications using modern technologies. I bridge the gap between elegant frontends and powerful backends.
 
