@@ -50,7 +50,7 @@ Here's a polished and well-organized version of your GitHub profile with all you
 - Integrated payment gateway and inventory management
 
 ### **Mobile Health App**
-- React Native + Node.js + AWS
+- React Native + Node.js 
 - Real-time health monitoring with push notifications
 
 ### **Enterprise Dashboard**
