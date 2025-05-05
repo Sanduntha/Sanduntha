@@ -1,4 +1,3 @@
-Here's a polished and well-organized version of your GitHub profile with all your technical skills prominently displayed:
 
 ---
 
