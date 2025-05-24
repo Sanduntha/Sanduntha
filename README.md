@@ -66,7 +66,7 @@
 🌐 **[Website](https://www.sanduntharaka.me)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/sandun-perera-11a61b211/)**  
 📧 **Email:** sanduntharaka9651@gmail.com  
-💻 **GitHub:** [github.com/SandunTharaka](https://github.com/SandunTharaka)
+💻 **GitHub:** [github.com/SandunTharaka](https://github.com/Sanduntha)
 
 ---
 
