@@ -44,27 +44,32 @@
 
 ## 🚀 **Featured Projects**
 
-### **E-Commerce Platform (Full-Stack)**
-- Spring Boot + React + Redux + MongoDB
-- Integrated payment gateway and inventory management
+### 🔗 [**E-Commerce Platform**](https://github.com/Sanduntha/e_cart)
+- Full-stack application with product listings, cart, and checkout
+- Built using Spring Boot, React, Redux, and MongoDB
+- Includes payment gateway and inventory management
 
-### **Mobile Health App**
-- React Native + Node.js 
-- Real-time health monitoring with push notifications
+### 🔗 [**Coffee Shop Website**](https://github.com/Sanduntha/coffee-shop-website)
+- Responsive website for a local coffee shop
+- Built using HTML, CSS, and JavaScript
+- Integrated Google Maps, contact forms, and a clean user-friendly layout
 
-### **Enterprise Dashboard**
-- Angular + Spring Boot + MySQL
-- Data visualization with custom analytics
+### 🔗 [**Safari Website**](https://github.com/Sanduntha/safari_web)
+- A visually rich promotional site for a safari tour company
+- Features photo galleries, booking forms, and detailed itineraries
+- Built using modern responsive design techniques
 
 ---
 
 ## 📫 **Let's Build Together!**
 
+🌐 **[Website](https://www.sanduntharaka.me)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/sandun-perera-11a61b211/)**  
 📧 **Email:** sanduntharaka9651@gmail.com  
 💻 **GitHub:** [github.com/SandunTharaka](https://github.com/SandunTharaka)
 
 ---
+
 
 ⭐ **"The most effective way to do it, is to do it."** - Amelia Earhart
 
