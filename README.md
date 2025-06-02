@@ -15,7 +15,6 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-Pro-59666C?logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-Intermediate-000000?logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Intermediate-239120?logo=c-sharp&logoColor=white)
 
 ### **Frontend Mastery**
