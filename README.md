@@ -57,6 +57,11 @@
 - Features photo galleries, booking forms, and detailed itineraries
 - Built using modern responsive design techniques
 
+### 🔗 [**Clothing Shop Website**](https://github.com/Sanduntha/clothing_web)
+- A stylish and modern website for an online clothing store
+- Includes product galleries, shopping cart functionality, and user-friendly navigation
+- Built using responsive design for seamless mobile and desktop experiences
+
 ---
 
 ## 📫 **Let's Build Together!**
