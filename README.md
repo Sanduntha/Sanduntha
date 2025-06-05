@@ -74,8 +74,6 @@
 ---
 
 
-⭐ **"The most effective way to do it, is to do it."** - Amelia Earhart
-
 🚀 **Exploring new opportunities to create impactful software solutions!**
 
 ---
