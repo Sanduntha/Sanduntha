@@ -1,4 +1,3 @@
-
 ---
 
 # 🌟 **Sandun Tharaka Perera** | **Software Engineer**
