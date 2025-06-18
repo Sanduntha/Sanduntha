@@ -83,5 +83,3 @@
 ✅ **Projects categorized** by tech stack  
 ✅ **Clean, scannable layout** for better readability  
 ✅ **Professional yet approachable** tone  
-
-Would you like me to add a **GitHub contributions calendar** or **recent activity feed**? These can make your profile more dynamic!
