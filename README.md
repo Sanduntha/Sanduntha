@@ -1,5 +1,3 @@
----
-
 # 🌟 **Sandun Tharaka Perera** | **Software Engineer**
 
 **Hello World!** 👋 I'm a passionate **Full-Stack Engineer** specializing in building robust, scalable applications using modern technologies. I bridge the gap between elegant frontends and powerful backends.
@@ -41,6 +39,16 @@
 
 ## 🚀 **Featured Projects**
 
+### 🔗 [**Online Book Selling Website**](https://github.com/Sanduntha/online-bookstore)
+- A full-stack web application for browsing, reviewing, and purchasing books online
+- Developed using **Spring Boot**, **React**, **Redux**, **MySQL**, and **Tailwind CSS**
+- Key features include:
+  - User registration & JWT-based login
+  - Book search by category, rating & keyword
+  - Add to cart, wishlist, and full order placement
+  - User reviews, admin management (CRUD)
+  - Clean ER diagram and scalable DB structure
+
 ### 🔗 [**E-Commerce Platform**](https://github.com/Sanduntha/e_cart)
 - Full-stack application with product listings, cart, and checkout
 - Built using Spring Boot, React, Redux, and MongoDB
@@ -68,10 +76,9 @@
 🌐 **[Website](https://www.sanduntharaka.me)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/sandun-perera-11a61b211/)**  
 📧 **Email:** sanduntharaka9651@gmail.com  
-💻 **GitHub:** [github.com/SandunTharaka](https://github.com/Sanduntha)
+💻 **GitHub:** [github.com/Sanduntha](https://github.com/Sanduntha)
 
 ---
-
 
 🚀 **Exploring new opportunities to create impactful software solutions!**
 
