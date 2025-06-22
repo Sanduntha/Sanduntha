@@ -39,16 +39,6 @@
 
 ## 🚀 **Featured Projects**
 
-### 🔗 [**Online Book Selling Website**](https://github.com/Sanduntha/online-bookstore)
-- A full-stack web application for browsing, reviewing, and purchasing books online
-- Developed using **Spring Boot**, **React**, **Redux**, **MySQL**, and **Tailwind CSS**
-- Key features include:
-  - User registration & JWT-based login
-  - Book search by category, rating & keyword
-  - Add to cart, wishlist, and full order placement
-  - User reviews, admin management (CRUD)
-  - Clean ER diagram and scalable DB structure
-
 ### 🔗 [**E-Commerce Platform**](https://github.com/Sanduntha/e_cart)
 - Full-stack application with product listings, cart, and checkout
 - Built using Spring Boot, React, Redux, and MongoDB
