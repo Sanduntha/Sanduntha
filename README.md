@@ -1,7 +1,7 @@
-# 🌟 **Sandun Tharaka Perera** | **Software Engineer** | **Full-Stack Engineer**
+👋 Hello, I'm **Sandun Tharaka Perera**
+💻 **Full-Stack Software Engineer** | 🚀 **Problem Solver** | 🎨 **Creative Builder**
 
-**Hello !** 👋 I'm a passionate **Full-Stack Software Engineer** specializing in building robust, scalable applications using modern technologies. I bridge the gap between elegant frontends and powerful backends.
-
+I’m a passionate Full-Stack Software Engineer specializing in creating robust, scalable, and high-performance applications using modern technologies. I love bringing ideas to life — from designing elegant, user-friendly frontends to developing powerful and efficient backends.
 ---
 
 ## 🛠 **Technical Arsenal**
