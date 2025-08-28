@@ -4,8 +4,7 @@
 
 ---
 
-I’m a passionate **Full-Stack Software Engineer** specializing in building **robust, scalable, and high-performance applications** with modern technologies.  
-I love bringing ideas to life — from designing **elegant, user-friendly interfaces** to developing **powerful and efficient backends** that make a real impact.  
+I’m a passionate **Full-Stack Software Engineer** specializing in building **robust, scalable, and high-performance applications** with modern technologies.I love bringing ideas to life — from designing **elegant, user-friendly interfaces** to developing **powerful and efficient backends** that make a real impact.  
 
 ---
 
