@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Sandun Tharaka Perera
 
 💻 **Software Engineer | Full-Stack Developer | Creative Problem Solver | UI/UX Enthusiast**
-
-![Header GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
 ---
 
 ## 🌟 About Me
@@ -51,31 +48,19 @@ I’m a passionate **Full-Stack Software Engineer** who loves turning ideas into
 ## 🚀 Featured Projects
 
 ### 🔗 [E-Commerce Platform](https://github.com/Sanduntha/e_cart)
-
-![E-Commerce GIF](https://media.giphy.com/media/3o6ZsX3yA6m79uJv0k/giphy.gif)
-
 * Full-stack **Spring Boot + React + Redux + MongoDB**
 * Payment gateway & inventory management
 * Sleek responsive design
 
 ### 🔗 [Coffee Shop Website](https://github.com/Sanduntha/coffee-shop-website)
-
-![Coffee Shop GIF](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
-
 * Responsive website with **HTML, CSS, JS**
 * Google Maps integration, contact forms, clean UI
 
 ### 🔗 [Safari Website](https://github.com/Sanduntha/safari_web)
-
-![Safari GIF](https://media.giphy.com/media/l0HlQ7LRalNQbuvBe/giphy.gif)
-
 * Promotional site with **photo galleries & booking forms**
 * Modern responsive design
 
 ### 🔗 [Clothing Shop Website](https://github.com/Sanduntha/clothing_web)
-
-![Clothing Shop GIF](https://media.giphy.com/media/3orieQOm5yPi7x5GF2/giphy.gif)
-
 * Stylish online clothing store
 * Shopping cart & seamless navigation
 * Mobile & desktop responsive
@@ -85,21 +70,22 @@ I’m a passionate **Full-Stack Software Engineer** who loves turning ideas into
 ## 📊 GitHub Stats
 
 ![Sandun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanduntha\&show_icons=true\&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanduntha\&layout=compact\&theme=radical)
+
+---
+
+Sure! Here’s your **“Connect with Me” section** formatted **line by line** for better readability on GitHub:
 
 ---
 
 ## 📫 Connect with Me
 
-🌐 **[Website](https://www.sanduntharaka.me)**
-🔗 **[LinkedIn](https://www.linkedin.com/in/sandun-perera-11a61b211/)**
-📧 **Email:** [sanduntharaka9651@gmail.com](mailto:sanduntharaka9651@gmail.com)
-💻 **GitHub:** [github.com/Sanduntha](https://github.com/Sanduntha)
+* 🌐 **Website:** [https://www.sanduntharaka.me](https://www.sanduntharaka.me)
+* 🔗 **LinkedIn:** [Sandun Perera](https://www.linkedin.com/in/sandun-perera-11a61b211/)
+* 📧 **Email:** [sanduntharaka9651@gmail.com](mailto:sanduntharaka9651@gmail.com)
+* 💻 **GitHub:** [github.com/Sanduntha](https://github.com/Sanduntha)
 
 ---
 
-✨ Always exploring new opportunities to **create impactful, elegant, and high-performance software solutions**!
 
----
-
-Do you want me to do that next?
