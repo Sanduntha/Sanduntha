@@ -52,6 +52,13 @@ I’m a passionate **Full-Stack Software Engineer** who loves turning ideas into
 * Payment gateway & inventory management
 * Sleek responsive design
 
+### 🔗 [Job Web Backend](https://github.com/Sanduntha/job-web-backend)
+* Backend for a **Job Portal Platform**
+* Built with **Java + Spring Boot**
+* RESTful APIs for job listings, user authentication, and application management
+* **MySQL** integration for data storage
+
+
 ### 🔗 [Coffee Shop Website](https://github.com/Sanduntha/coffee-shop-website)
 * Responsive website with **HTML, CSS, JS**
 * Google Maps integration, contact forms, clean UI
