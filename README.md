@@ -7,7 +7,7 @@
 
 I’m a passionate **Full-Stack Software Engineer** who loves turning ideas into **beautiful, high-performance applications**. I specialize in **modern web and mobile apps**, combining **sleek UI design** with **robust backend solutions**.
 
-* 🔹 Experienced in **React, React Native, Spring Boot, Node.js**
+* 🔹 Experienced in **React, React Native, Spring Boot, Node.js and Express.js**
 * 🔹 Skilled in **UI/UX, responsive design, and database management**
 * 🔹 Always exploring **new technologies, AI, and cloud solutions**
 
@@ -92,7 +92,4 @@ Sure! Here’s your **“Connect with Me” section** formatted **line by line**
 * 🔗 **LinkedIn:** [Sandun Perera](https://www.linkedin.com/in/sandun-perera-11a61b211/)
 * 📧 **Email:** [sanduntharaka9651@gmail.com](mailto:sanduntharaka9651@gmail.com)
 * 💻 **GitHub:** [github.com/Sanduntha](https://github.com/Sanduntha)
-
----
-
 
