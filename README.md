@@ -74,7 +74,7 @@ I specialize in **modern web and mobile apps**, combining **sleek UI design** wi
 
 ## 📊 GitHub Stats
 
-![Sandun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanduntha&show_icons=true&theme=radical)
+![Sandun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanduntha\&show_icons=true\&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanduntha&layout=compact&theme=radical)
 
