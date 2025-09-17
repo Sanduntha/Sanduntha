@@ -22,6 +22,8 @@ I’m a passionate **Full-Stack Software Engineer** who loves turning ideas into
 ![Hibernate](https://img.shields.io/badge/Hibernate-Pro-59666C?logo=hibernate\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-000000?logo=express\&logoColor=white)
+![C#](https://img.shields.io/badge/C#-Basic-000000?logo=c#\&logoColor=white)
+
 
 ### **Frontend & UI**
 
