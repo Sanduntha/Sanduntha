@@ -27,13 +27,14 @@ I specialize in **modern web and mobile apps**, combining **sleek UI design** wi
 ![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-FC3A3A?style=for-the-badge&logo=laravel&logoColor=white)
 
-
 ### **Frontend & UI**
-![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-Pro-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Pro-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-Pro-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
 
 ### **Database & Cloud**
 ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
