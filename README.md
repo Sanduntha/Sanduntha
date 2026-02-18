@@ -31,7 +31,7 @@ const sandun = {
 };
 ```
 
-- 🔥 **5+ years** building modern web & mobile applications
+- 🔥 **1+ year** building modern web & mobile applications
 - 🎨 Strong eye for **design** — I code what looks good AND works well
 - ⚡ Experienced in **full development lifecycle** from conception to deployment
 - 🌱 Always learning, always improving, always curious
@@ -196,13 +196,11 @@ const sandun = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Sanduntha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sandun's GitHub Stats" />
 
-![Sandun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanduntha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanduntha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanduntha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanduntha&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanduntha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
