@@ -161,6 +161,26 @@ const sandun = {
 
 ---
 
+### 💼 [SmartStock - Inventory Management System](https://github.com/Sanduntha/full-stack-inventry-manegement-system)
+**Full-Stack | Backend API | Laravel 12 + React.js + MySQL**
+- Professional-grade inventory solution designed for real-time stock tracking and resource management
+- Handles complex CRUD operations, automated low-stock alerts, and detailed supplier reporting
+- Utilizes an optimized MySQL database to ensure data integrity across thousands of product SKUs
+
+**Tech:** `Laravel 12` `React.js` `MySQL` `REST API` `Tailwind CSS` `Vite`
+
+---
+
+### 💼 [LifeStream - Blood Donation Hub](https://github.com/Sanduntha/full-stack-blood-donation-website/tree/development)
+**Full-Stack | Backend API | MERN Stack + JWT Auth**
+- Mission-driven full-stack application connecting blood donors with those in urgent need
+- Features a secure JWT-based authentication system for donors and requesters
+- Manages real-time blood requests, donor availability tracking, and a centralized dashboard
+
+**Tech:** `MongoDB` `Express.js` `Node.js` `React.js` `JWT Auth` `REST API`  `Vite`
+
+---
+
 ### ☕ [Coffee Shop Website](https://github.com/Sanduntha/coffee-shop-website)
 **Frontend | HTML + CSS + JavaScript**
 - Modern, responsive café website
