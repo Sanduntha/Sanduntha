@@ -25,7 +25,7 @@ const sandun = {
   location: "Sri Lanka 🇱🇰",
   currentFocus: "Building production-ready full-stack applications",
   expertise: ["Web Development", "Mobile Apps", "REST APIs", "UI/UX Design"],
-  learning: ["Cloud Architecture", "AI Integration", "Advanced React Patterns"],
+  learning: ["Cloud Architecture", "AI Integration", "Advanced React Patterns", Cyber Security],
   workingOn: "E-commerce platforms & job portal solutions",
   askMeAbout: ["React", "Spring Boot", "Laravel", "Express.js", "MySQL", "System Design", "UI/UX"]
 };
