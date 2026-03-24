@@ -1,4 +1,4 @@
-<div align="center">
+/<div align="center">
 
 # 👋 Hi, I'm **Sandun Tharaka Perera**
 
@@ -20,9 +20,10 @@
 
 I'm a passionate **Full-Stack Software Engineer** who loves building **scalable web and mobile applications** with a focus on **exceptional user experiences**. I specialize in modern JavaScript ecosystems, Java-based backends, and creating interfaces that users love.
 
+
 ```typescript
-const sandun = {
-  location: "Sri Lanka 🇱🇰",
+*const sandun = {
+  location: "Sri Lanka 🇱🇰",+
   currentFocus: "Building production-ready full-stack applications",
   expertise: ["Web Development", "Mobile Apps", "REST APIs", "UI/UX Design"],
   learning: ["Cloud Architecture", "AI Integration", "Advanced React Patterns", Cyber Security],
