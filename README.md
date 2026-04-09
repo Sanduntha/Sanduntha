@@ -28,7 +28,7 @@ I'm a passionate **Full-Stack Software Engineer** who loves building **scalable 
   expertise: ["Web Development", "Mobile Apps", "REST APIs", "UI/UX Design"],
   learning: ["Cloud Architecture", "AI Integration", "Advanced React Patterns", "Cyber Security", "Software Architecture"],
   workingOn: "E-commerce platforms & job portal solutions",
-  askMeAbout: ["React", "Spring Boot", "Laravel", "Express.js", "MySQL", "System Design", "UI/UX"]
+  askMeAbout: ["React", "Next.js", "Spring Boot", "Laravel", "Express.js", "MySQL", "System Design", "UI/UX"]
 };
 ```
 
