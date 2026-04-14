@@ -291,6 +291,6 @@ I'm always open to collaborating on interesting projects, discussing tech, or ju
 
 ### ⭐ If you like my work, feel free to star my repos!
 
-<sub>💡 *Looking for a developer who can bring ideas to life with clean code and great design? Let's talk!*</sub>
+<sub>💡*Looking for a developer who can bring ideas to life with clean code and great design? Let's talk!*</sub>
 
 </div>
