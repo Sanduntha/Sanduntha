@@ -22,7 +22,7 @@ I'm a passionate **Full-Stack Software Engineer** who loves building **scalable 
 
 
 ```typescript
-*const sandun = {
+const sandun = {
   location: "Sri Lanka 🇱🇰",
   currentFocus: "Building production-ready full-stack applications",
   expertise: ["Web Development", "Mobile Apps", "REST APIs", "UI/UX Design"],
