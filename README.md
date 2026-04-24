@@ -28,7 +28,7 @@ const sandun = {
   expertise: ["Web Development", "Mobile Apps", "REST APIs", "UI/UX Design"],
   learning: ["Cloud Architecture", "AI Integration", "Advanced React Patterns", "Cyber Security", "Software Architecture"],
   workingOn: "E-commerce platforms & ERP system solutions",
-  askMeAbout: ["React", "Next.js", "Spring Boot", "Laravel", "Express.js", "MySQL", "System Design", "UI/UX"]
+  askMeAbout: ["React", "Next.js", "Spring Boot", "Laravel", "Express.js", "MySQL", "UI/UX" "System Design"]
 };
 ```
 
