@@ -146,7 +146,7 @@ const sandun = {
 - Real-time cart synchronization with Redux
 - Responsive design across all devices
 
-**Tech:** `Java` `Spring Boot` `React` `Redux` `MongoDB` `JWT` `Docker`
+**Tech:** `Java` `Spring Boot` `React` `Redux` `MongoDB` `JWT` 
 
 ---
 
