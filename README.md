@@ -32,9 +32,10 @@ const sandun = {
 };
 ```
 
-- 🔥 **1+ year** building modern web & mobile applications
+- 🔥 **2+ year** building modern web & mobile applications
 - 🎨 Strong eye for **design** — I code what looks good AND works well
 - ⚡ Experienced in **full development lifecycle** from conception to deployment
+- 🧠 Passionate about ethical hacking and continuously expanding my offensive security knowledge
 - 🌱 Always learning, always improving, always curious
 
 ---
