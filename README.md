@@ -26,9 +26,9 @@ const sandun = {
   location: "Sri Lanka 🇱🇰",
   currentFocus: "Building production-ready full-stack applications",
   expertise: ["Web Development", "Mobile Apps", "REST APIs", "UI/UX Design"],
-  learning: ["Cloud Architecture", "AI Integration", "Advanced React Patterns", "Cyber Security", "Software Architecture", "Penetration Testing", "Application Security"],
+  learning: ["Cloud Architecture", "AI Integration", "System Design", "Advanced React Patterns", "Cyber Security", "Software Architecture", "Penetration Testing", "Application Security"],
   workingOn: "HRM systems & ERP system solutions","Penetration Testing"
-  askMeAbout: ["React", "Next.js", "Spring Boot", "Laravel", "Express.js", "MySQL", "UI/UX", "System Design"]
+  askMeAbout: ["React", "Next.js", "Spring Boot", "Laravel", "Express.js", "MySQL", "UI/UX"]
 };
 ```
 
