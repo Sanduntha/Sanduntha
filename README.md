@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Sandun Tharaka Perera**
 
-### 💻 Software Engineer | Full-Stack Developer | Creative Problem Solver | Cyber Security Analyst 
+### 💻 Software Engineer | Full-Stack Developer | Creative Problem Solver | Cyber Security Analyst | Ethical Hacker
 
 <p align="center">
   <em>Transforming ideas into beautiful, high-performance applications</em>
