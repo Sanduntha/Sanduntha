@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm **Sandun Tharaka Perera**
 
-### 💻 Software Engineer | Full-Stack Developer | Creative Problem Solver | Cyber Security Analyst | Ethical Hacker
+### 💻 Associate Software Engineer | Full-Stack Developer | Cyber Security Analyst | Ethical Hacker
 
 <p align="center">
-  <em>Transforming ideas into beautiful, high-performance applications</em>
+  <em>Building secure, high-performance applications — and breaking them (safely) to make them stronger</em>
 </p>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sanduntharaka.me-0A66C2?style=for-the-badge)](https://www.sanduntharaka.me)
@@ -18,25 +18,87 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Software Engineer** who loves building **scalable web and mobile applications** with a focus on **exceptional user experiences**. I specialize in modern JavaScript ecosystems, Java-based backends, and creating interfaces that users love.
-
+I'm an **Associate Software Engineer** and **Full-Stack Developer** currently deepening my skills in **cyber security, penetration testing, and ethical hacking** as I grow my career toward application security. I build production web/mobile apps with modern JavaScript and Java-based backends, and I use that same engineering background to understand — and responsibly break — how software fails.
 
 ```typescript
 const sandun = {
+  role: "Associate Software Engineer / Full-Stack Developer",
   location: "Sri Lanka 🇱🇰",
-  currentFocus: "Building production-ready full-stack applications",
-  expertise: ["Web Development", "Mobile Apps", "REST APIs", "UI/UX Design"],
-  learning: ["Cloud Architecture", "AI Integration", "System Design", "Advanced React Patterns", "Cyber Security", "Software Architecture", "Penetration Testing", "Application Security"],
-  workingOn: "HRM systems & ERP system solutions","Penetration Testing"
-  askMeAbout: ["React", "Next.js", "Spring Boot", "Laravel", "Express.js", "MySQL", "UI/UX", "Web Application Penetration Testing"]
+  currentFocus: "Web Application Penetration Testing & Secure Development",
+  expertise: ["Full-Stack Development", "Web App Security", "REST APIs", "UI/UX Design"],
+  learning: [
+    "Offensive Security (OWASP Top 10)",
+    "Network & Web Pentesting",
+    "Security Tooling in Python",
+    "Cloud & Application Security",
+    "System Design"
+  ],
+  workingOn: ["HRM & ERP systems", "Security scanning & testing tools"],
+  askMeAbout: [
+    "React", "Next.js", "Spring Boot", "Laravel", "Express.js", "MySQL",
+    "Web Application Penetration Testing", "SQLi / JWT / Auth Security"
+  ]
 };
 ```
 
-- 🔥 **2+ year** building modern web & mobile applications
+- 🔥 **2+ years** building modern web & mobile applications
+- 🛡️ Actively building **offensive security tooling** (SQLi scanners, JWT testers, recon tools)
 - 🎨 Strong eye for **design** — I code what looks good AND works well
 - ⚡ Experienced in **full development lifecycle** from conception to deployment
-- 🧠 Passionate about ethical hacking and continuously expanding my offensive security knowledge
+- 🧠 Studying **ethical hacking**, continuously expanding my offensive security knowledge
 - 🌱 Always learning, always improving, always curious
+
+---
+
+## 🛡️ Cyber Security & Ethical Hacking
+
+I write security tools primarily in Python to understand common web application vulnerabilities from an attacker's perspective, which in turn makes me a better secure-code developer. All tools below are built and used strictly for **educational, authorized testing, and lab environments**.
+
+### 🔎 [SQLi Scanner](https://github.com/Sanduntha/sqli-scanner)
+**Python | Error-Based SQL Injection Detection**
+- Automated scanner that probes web endpoints for classic error-based SQL injection indicators
+- Built to understand how injection flaws surface in real application responses
+- Helped reinforce parameterized-query and input-validation practices in my own backend work
+
+**Tech:** `Python` `Web Security` `OWASP Top 10`
+
+---
+
+### 🔐 [JWT Tester](https://github.com/Sanduntha/jwt-tester)
+**Python | JWT Security Auditing Tool**
+- Tests JSON Web Tokens for common misconfigurations: `alg: none` bypass, weak/guessable secrets, and expiration handling
+- Directly informed how I implement JWT-based authentication in production apps (Spring Security, Express, Laravel)
+
+**Tech:** `Python` `JWT` `Authentication Security`
+
+---
+
+### 🌐 [Subdomain Enumerator](https://github.com/Sanduntha/subdomain-enumerator)
+**Python | Reconnaissance Tool**
+- Enumerates subdomains for a target domain as part of the reconnaissance phase of a pentest
+- Practices safe, scoped OSINT/recon methodology
+
+**Tech:** `Python` `Recon` `OSINT`
+
+---
+
+### 🔒 [Ransomware Simulator](https://github.com/Sanduntha/ransomware-simulator) *(Educational)*
+**Python | Encryption Behavior Simulation**
+- Sandbox simulator that encrypts/decrypts files in an isolated test folder only, to study ransomware behavior and inform defensive strategies
+- Built strictly for controlled, offline educational use
+
+**Tech:** `Python` `Cryptography Concepts` `Malware Analysis (Defensive)`
+
+---
+
+### ⌨️ [Educational Keylogger](https://github.com/Sanduntha/educational-keylogger) *(Educational)*
+**Python | Endpoint Security Concepts**
+- Demonstrates keystroke capture, stealth, and persistence techniques for cyber security coursework
+- Used to understand endpoint attack techniques so I can better recognize and defend against them
+
+**Tech:** `Python` `Endpoint Security`
+
+> ⚠️ The simulator and keylogger projects above are lab/coursework tools built for isolated, authorized environments as part of my cyber security studies — not for use against systems without explicit permission.
 
 ---
 
@@ -46,6 +108,7 @@ const sandun = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -72,6 +135,12 @@ const sandun = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Security & Pentesting**
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -103,6 +172,18 @@ const sandun = {
 </td>
 <td width="50%">
 
+### 🛡️ Application Security
+- Test applications for OWASP Top 10 vulnerabilities (SQLi, XSS, broken auth, etc.)
+- Build custom Python tooling for scanning, recon, and auth testing
+- Audit JWT implementations and session management
+- Translate offensive findings into secure coding practices
+- Study attacker techniques to build stronger defenses
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🎨 Frontend Engineering
 - Develop component-based architecture with React/Vue
 - Optimize application performance (code splitting, lazy loading, memoization)
@@ -111,8 +192,6 @@ const sandun = {
 - Build reusable UI component libraries
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### ⚙️ Backend & System Design
@@ -123,22 +202,12 @@ const sandun = {
 - Handle error logging, monitoring, and debugging
 
 </td>
-<td width="50%">
-
-### 🔧 DevOps & Tools
-- Version control with Git (branching strategies, PR reviews)
-- Containerize applications using Docker
-- Set up CI/CD pipelines for automated testing and deployment
-- Deploy and manage applications on AWS (EC2, S3, RDS)
-- Write unit tests and integration tests
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Full-Stack Projects
 
 ### 🛒 [E-Commerce Platform](https://github.com/Sanduntha/e_cart)
 **Full-Stack | Spring Boot + React + Redux + MongoDB**
@@ -147,7 +216,7 @@ const sandun = {
 - Real-time cart synchronization with Redux
 - Responsive design across all devices
 
-**Tech:** `Java` `Spring Boot` `React` `Redux` `MongoDB` `JWT` 
+**Tech:** `Java` `Spring Boot` `React` `Redux` `MongoDB` `JWT`
 
 ---
 
@@ -163,31 +232,60 @@ const sandun = {
 ---
 
 ### 💼 [SmartStock - Inventory Management System](https://github.com/Sanduntha/full-stack-inventry-manegement-system)
-**Full-Stack | Backend API | Laravel 12 + React.js + MySQL**
-- Professional-grade inventory solution designed for real-time stock tracking and resource management
+**Full-Stack | Laravel 12 + React.js + MySQL**
+- Professional-grade inventory solution for real-time stock tracking and resource management
 - Handles complex CRUD operations, automated low-stock alerts, and detailed supplier reporting
-- Utilizes an optimized MySQL database to ensure data integrity across thousands of product SKUs
+- Optimized MySQL database ensuring data integrity across thousands of product SKUs
 
 **Tech:** `Laravel 12` `React.js` `MySQL` `REST API` `Tailwind CSS` `Vite`
 
 ---
 
 ### 💼 [LifeStream - Blood Donation Hub](https://github.com/Sanduntha/full-stack-blood-donation-website/tree/development)
-**Full-Stack | Backend API | MERN Stack + JWT Auth**
-- Mission-driven full-stack application connecting blood donors with those in urgent need
-- Features a secure JWT-based authentication system for donors and requesters
+**Full-Stack | MERN Stack + JWT Auth**
+- Mission-driven application connecting blood donors with those in urgent need
+- Secure JWT-based authentication system for donors and requesters
 - Manages real-time blood requests, donor availability tracking, and a centralized dashboard
 
-**Tech:** `MongoDB` `Express.js` `Node.js` `React.js` `JWT Auth` `REST API`  `Vite`
+**Tech:** `MongoDB` `Express.js` `Node.js` `React.js` `JWT Auth` `REST API` `Vite`
+
+---
+
+### 🚗 [Laugfs Car Care](https://github.com/Sanduntha/laugfs-car-care)
+**Full-Stack | Laravel**
+- Service booking & management platform for a car care business
+
+**Tech:** `PHP` `Laravel`
+
+---
+
+### ☀️ [Eco Sun Solar Company](https://github.com/Sanduntha/eco-sun-solar-company)
+**Full-Stack | Laravel**
+- Business site & management system for a solar energy company
+
+**Tech:** `PHP` `Laravel`
+
+---
+
+### ☀️ [FiveV Enterprises Solar](https://github.com/Sanduntha/fivev-enterprises-solar)
+**Full-Stack | Laravel**
+- Corporate platform for a solar enterprise
+
+**Tech:** `PHP` `Laravel`
+
+---
+
+### ✈️ [Traveller](https://github.com/Sanduntha/Traveller)
+**TypeScript Application**
+- Travel-focused application built with TypeScript
+
+**Tech:** `TypeScript`
 
 ---
 
 ### ☕ [Coffee Shop Website](https://github.com/Sanduntha/coffee-shop-website)
 **Frontend | HTML + CSS + JavaScript**
-- Modern, responsive café website
-- Interactive menu with filtering
-- Google Maps integration
-- Contact forms & reservation system
+- Modern, responsive café website with interactive menu filtering, Google Maps integration, and reservation forms
 
 **Tech:** `HTML5` `CSS3` `JavaScript` `Google Maps API`
 
@@ -195,10 +293,7 @@ const sandun = {
 
 ### 🦁 [Safari Website](https://github.com/Sanduntha/safari_web)
 **Frontend | Responsive Design**
-- Promotional site for safari tours
-- Photo gallery with lightbox effects
-- Booking forms & contact integration
-- Mobile-optimized experience
+- Promotional site for safari tours with photo gallery, booking forms, and mobile optimization
 
 **Tech:** `HTML5` `CSS3` `JavaScript` `Responsive Design`
 
@@ -206,10 +301,7 @@ const sandun = {
 
 ### 👕 [Clothing Store Website](https://github.com/Sanduntha/clothing_web)
 **E-Commerce Frontend**
-- Online fashion store with shopping cart
-- Product filtering & search
-- Smooth navigation & transitions
-- Mobile & desktop responsive
+- Online fashion store with shopping cart, product filtering & search, smooth navigation
 
 **Tech:** `HTML5` `CSS3` `JavaScript` `E-Commerce UI`
 
@@ -218,10 +310,6 @@ const sandun = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Sanduntha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sandun's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanduntha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanduntha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -238,6 +326,12 @@ Architecture:
   - Microservices Basics
   - Database Normalization
   - Component-Based UI
+
+Security:
+  - OWASP Top 10 Awareness
+  - Web App Penetration Testing (Recon, SQLi, Auth Testing)
+  - Secure Authentication Design (JWT, OAuth)
+  - Vulnerability Scanning & Reporting
 
 Development Practices:
   - Clean Code Principles
@@ -258,27 +352,27 @@ Soft Skills:
 
 ## 🌱 Currently Exploring
 
+- 🔹 Web application penetration testing methodology (OWASP Testing Guide)
+- 🔹 Building more security scanning/tooling in Python
 - 🔹 Advanced React patterns & performance optimization
-- 🔹 Cloud deployment with AWS (EC2, S3, Lambda)
-- 🔹 AI/ML integration in web applications
+- 🔹 Cloud deployment & security on AWS (EC2, S3, Lambda, IAM)
 - 🔹 Microservices architecture
-- 🔹 DevOps & CI/CD pipelines
 
 ---
 
 ## 💡 Fun Facts
 
-- 🎯 I write code that's both **functional** and **beautiful**
+- 🎯 I write code that's both **functional** and **secure**
+- 🛡️ I test my own apps the way an attacker would, before anyone else does
 - 🚀 Passionate about **performance optimization** — every millisecond counts
 - 🎨 I believe good **UI/UX** is not optional, it's essential
-- 📚 Constant learner — tech changes fast, and I keep up
-- 💬 Love discussing system design, best practices, and new tech trends
+- 📚 Constant learner — tech and threats both change fast, and I keep up
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always open to collaborating on interesting projects, discussing tech, or just having a chat about software development!
+I'm always open to collaborating on interesting projects, discussing security research, or just having a chat about software development!
 
 <div align="center">
 
@@ -292,6 +386,6 @@ I'm always open to collaborating on interesting projects, discussing tech, or ju
 
 ### ⭐ If you like my work, feel free to star my repos!
 
-<sub>💡*Looking for a developer who can bring ideas to life with clean code and great design? Let's talk!*</sub>
+<sub>💡*Looking for a developer with a security-first mindset who can bring ideas to life with clean, defensible code? Let's talk!*</sub>
 
 </div>
