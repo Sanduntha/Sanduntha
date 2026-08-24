@@ -5,7 +5,7 @@
 ### 💻 Associate Software Engineer | Full-Stack Developer | Cyber Security Analyst | Ethical Hacker
 
 <p align="center">
-  <em>Building secure, high-performance applications — and breaking them (safely) to make them stronger</em>
+  <em>Building secure, high-performance applications and breaking them (safely) to make them stronger</em>
 </p>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sanduntharaka.me-0A66C2?style=for-the-badge)](https://www.sanduntharaka.me)
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm an **Associate Software Engineer** and **Full-Stack Developer** currently deepening my skills in **cyber security, penetration testing, and ethical hacking** as I grow my career toward application security. I build production web/mobile apps with modern JavaScript and Java-based backends, and I use that same engineering background to understand — and responsibly break — how software fails.
+I'm an **Associate Software Engineer** and **Full-Stack Developer** currently deepening my skills in **cyber security, penetration testing, and ethical hacking** as I grow my career toward application security. I build production web/mobile apps with modern JavaScript and Java based backends, and I use that same engineering background to understand and responsibly break how software fails.
 
 ```typescript
 const sandun = {
@@ -43,7 +43,7 @@ const sandun = {
 
 - 🔥 **2+ years** building modern web & mobile applications
 - 🛡️ Actively building **offensive security tooling** (SQLi scanners, JWT testers, recon tools)
-- 🎨 Strong eye for **design** — I code what looks good AND works well
+- 🎨 Strong eye for **design** I code what looks good AND works well
 - ⚡ Experienced in **full development lifecycle** from conception to deployment
 - 🧠 Studying **ethical hacking**, continuously expanding my offensive security knowledge
 - 🌱 Always learning, always improving, always curious
@@ -52,7 +52,7 @@ const sandun = {
 
 ## 🛡️ Cyber Security & Ethical Hacking
 
-I write security tools primarily in Python to understand common web application vulnerabilities from an attacker's perspective, which in turn makes me a better secure-code developer. All tools below are built and used strictly for **educational, authorized testing, and lab environments**.
+I write security tools primarily in Python to understand common web application vulnerabilities from an attacker's perspective, which in turn makes me a better secure code developer. All tools below are built and used strictly for **educational, authorized testing, and lab environments**.
 
 ### 🔎 [SQLi Scanner](https://github.com/Sanduntha/sqli-scanner)
 **Python | Error-Based SQL Injection Detection**
@@ -67,7 +67,7 @@ I write security tools primarily in Python to understand common web application 
 ### 🔐 [JWT Tester](https://github.com/Sanduntha/jwt-tester)
 **Python | JWT Security Auditing Tool**
 - Tests JSON Web Tokens for common misconfigurations: `alg: none` bypass, weak/guessable secrets, and expiration handling
-- Directly informed how I implement JWT-based authentication in production apps (Spring Security, Express, Laravel)
+- Directly informed how I implement JWT based authentication in production apps (Spring Security, Express, Laravel)
 
 **Tech:** `Python` `JWT` `Authentication Security`
 
@@ -98,7 +98,7 @@ I write security tools primarily in Python to understand common web application 
 
 **Tech:** `Python` `Endpoint Security`
 
-> ⚠️ The simulator and keylogger projects above are lab/coursework tools built for isolated, authorized environments as part of my cyber security studies — not for use against systems without explicit permission.
+> ⚠️ The simulator and keylogger projects above are lab/coursework tools built for isolated, authorized environments as part of my cyber security studies not for use against systems without explicit permission.
 
 ---
 
@@ -187,7 +187,7 @@ I write security tools primarily in Python to understand common web application 
 ### 🎨 Frontend Engineering
 - Develop component-based architecture with React/Vue
 - Optimize application performance (code splitting, lazy loading, memoization)
-- Ensure cross-browser compatibility and responsive design
+- Ensure cross browser compatibility and responsive design
 - Implement accessibility standards (WCAG compliance)
 - Build reusable UI component libraries
 
@@ -195,10 +195,10 @@ I write security tools primarily in Python to understand common web application 
 <td width="50%">
 
 ### ⚙️ Backend & System Design
-- Architect scalable server-side applications with Spring Boot/Node.js
+- Architect scalable server side applications with Spring Boot/Node.js
 - Design normalized database schemas and write optimized SQL queries
 - Implement caching strategies (Redis) for performance
-- Integrate third-party APIs and payment gateways
+- Integrate third party APIs and payment gateways
 - Handle error logging, monitoring, and debugging
 
 </td>
@@ -233,8 +233,8 @@ I write security tools primarily in Python to understand common web application 
 
 ### 💼 [SmartStock - Inventory Management System](https://github.com/Sanduntha/full-stack-inventry-manegement-system)
 **Full-Stack | Laravel 12 + React.js + MySQL**
-- Professional-grade inventory solution for real-time stock tracking and resource management
-- Handles complex CRUD operations, automated low-stock alerts, and detailed supplier reporting
+- Professional grade inventory solution for real-time stock tracking and resource management
+- Handles complex CRUD operations, automated low stock alerts, and detailed supplier reporting
 - Optimized MySQL database ensuring data integrity across thousands of product SKUs
 
 **Tech:** `Laravel 12` `React.js` `MySQL` `REST API` `Tailwind CSS` `Vite`
@@ -243,9 +243,9 @@ I write security tools primarily in Python to understand common web application 
 
 ### 💼 [LifeStream - Blood Donation Hub](https://github.com/Sanduntha/full-stack-blood-donation-website/tree/development)
 **Full-Stack | MERN Stack + JWT Auth**
-- Mission-driven application connecting blood donors with those in urgent need
-- Secure JWT-based authentication system for donors and requesters
-- Manages real-time blood requests, donor availability tracking, and a centralized dashboard
+- Mission driven application connecting blood donors with those in urgent need
+- Secure JWT based authentication system for donors and requesters
+- Manages real time blood requests, donor availability tracking, and a centralized dashboard
 
 **Tech:** `MongoDB` `Express.js` `Node.js` `React.js` `JWT Auth` `REST API` `Vite`
 
@@ -364,9 +364,9 @@ Soft Skills:
 
 - 🎯 I write code that's both **functional** and **secure**
 - 🛡️ I test my own apps the way an attacker would, before anyone else does
-- 🚀 Passionate about **performance optimization** — every millisecond counts
+- 🚀 Passionate about **performance optimization** every millisecond counts
 - 🎨 I believe good **UI/UX** is not optional, it's essential
-- 📚 Constant learner — tech and threats both change fast, and I keep up
+- 📚 Constant learner tech and threats both change fast, and I keep up
 
 ---
 
