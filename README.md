@@ -255,7 +255,7 @@ I write security tools primarily in Python to understand common web application 
 **Full-Stack | Laravel**
 - Service booking & management platform for a car care business
 
-**Tech:** `PHP` `Laravel`
+**Tech:** `PHP` `Laravel` `MySQL`
 
 ---
 
