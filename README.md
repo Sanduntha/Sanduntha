@@ -263,7 +263,7 @@ I write security tools primarily in Python to understand common web application 
 **Full-Stack | Laravel**
 - Business site & management system for a solar energy company
 
-**Tech:** `PHP` `Laravel`
+**Tech:** `PHP` `Laravel` `MySQL`
 
 ---
 
