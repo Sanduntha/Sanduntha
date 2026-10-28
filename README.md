@@ -271,7 +271,7 @@ I write security tools primarily in Python to understand common web application 
 **Full-Stack | Laravel**
 - Corporate platform for a solar enterprise
 
-**Tech:** `PHP` `Laravel`
+**Tech:** `PHP` `Laravel` `MySQL`
 
 ---
 
